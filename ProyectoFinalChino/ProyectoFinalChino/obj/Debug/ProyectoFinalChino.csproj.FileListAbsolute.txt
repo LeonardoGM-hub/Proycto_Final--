@@ -1,0 +1,17 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\ProyectoFinalChino.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\ProyectoFinalChino.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.pdb
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\ProyectoFinalChino.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\ProyectoFinalChino.pdb
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.csprojResolveAssemblyReference.cache
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.Form1.resources
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.MainForm.resources
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.csproj.GenerateResource.Cache
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.pdb
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Proyecto26.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Proyecto26.pdb
