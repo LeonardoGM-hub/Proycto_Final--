@@ -1,7 +1,0 @@
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csprojResolveAssemblyReference.cache
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.MainForm.resources
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csproj.GenerateResource.Cache
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\bin\Debug\Proyecto26.exe
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\bin\Debug\Proyecto26.pdb
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.exe
-C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.pdb
