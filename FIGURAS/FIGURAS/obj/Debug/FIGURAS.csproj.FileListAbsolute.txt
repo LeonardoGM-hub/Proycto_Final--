@@ -1,0 +1,7 @@
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\bin\Debug\FIGURAS.exe
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\bin\Debug\FIGURAS.pdb
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\obj\Debug\FIGURAS.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\obj\Debug\FIGURAS.MainForm.resources
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\obj\Debug\FIGURAS.csproj.GenerateResource.Cache
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\obj\Debug\FIGURAS.exe
+C:\Users\CC1_PC34\Documents\SharpDevelop Projects\FIGURAS\FIGURAS\obj\Debug\FIGURAS.pdb
