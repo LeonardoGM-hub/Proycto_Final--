@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\bin\Debug\VolumenCubo.exe
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\bin\Debug\VolumenCubo.pdb
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\obj\Debug\VolumenCubo.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\obj\Debug\VolumenCubo.MainForm.resources
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\obj\Debug\VolumenCubo.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\obj\Debug\VolumenCubo.exe
+C:\Users\josue\trabajoDemas\VolumenCubo\VolumenCubo\obj\Debug\VolumenCubo.pdb
