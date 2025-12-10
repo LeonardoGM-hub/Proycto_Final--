@@ -1,0 +1,21 @@
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.MainForm.resources
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csproj.GenerateResource.Cache
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\bin\Debug\Proyecto26.exe
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\bin\Debug\Proyecto26.pdb
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.exe
+C:\Users\CC1_PC32\Documents\Proyecto26\Proyecto26\obj\Debug\Proyecto26.pdb
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\obj\Debug\Proyecto26.MainForm.resources
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csproj.GenerateResource.Cache
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\bin\Debug\Proyecto26.exe
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\bin\Debug\Proyecto26.pdb
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\obj\Debug\Proyecto26.exe
+C:\Users\CC2_PC31\pro\Proyecto26\Proyecto26\obj\Debug\Proyecto26.pdb
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csprojResolveAssemblyReference.cache
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\obj\Debug\Proyecto26.MainForm.resources
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\obj\Debug\Proyecto26.csproj.GenerateResource.Cache
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\obj\Debug\Proyecto26.exe
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\obj\Debug\Proyecto26.pdb
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\bin\Debug\Proyecto26.exe
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Proyecto26\Proyecto26\bin\Debug\Proyecto26.pdb
