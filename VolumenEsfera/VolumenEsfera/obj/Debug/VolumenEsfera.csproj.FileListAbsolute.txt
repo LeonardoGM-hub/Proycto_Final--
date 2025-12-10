@@ -1,0 +1,7 @@
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\bin\Debug\VolumenEsfera.exe
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\bin\Debug\VolumenEsfera.pdb
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\obj\Debug\VolumenEsfera.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\obj\Debug\VolumenEsfera.MainForm.resources
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\obj\Debug\VolumenEsfera.csproj.GenerateResource.Cache
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\obj\Debug\VolumenEsfera.exe
+C:\Users\josue\trabajo\VolumenEsfera\VolumenEsfera\obj\Debug\VolumenEsfera.pdb
