@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\bin\Debug\VolumenPiramide.exe
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\bin\Debug\VolumenPiramide.pdb
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\obj\Debug\VolumenPiramide.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\obj\Debug\VolumenPiramide.MainForm.resources
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\obj\Debug\VolumenPiramide.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\obj\Debug\VolumenPiramide.exe
+C:\Users\josue\trabajoDemas\VolumenPiramide\VolumenPiramide\obj\Debug\VolumenPiramide.pdb
