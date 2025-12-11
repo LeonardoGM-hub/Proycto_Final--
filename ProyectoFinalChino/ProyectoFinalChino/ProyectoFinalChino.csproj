@@ -78,6 +78,14 @@
       <Project>{B75998A7-7D74-4687-B735-D730745308B5}</Project>
       <Name>Empleados</Name>
     </ProjectReference>
+    <ProjectReference Include="..\..\Factorial\Factorial\Factorial.csproj">
+      <Project>{8FC653E6-6987-4B10-8A62-5F67E7332428}</Project>
+      <Name>Factorial</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\FIGURAS\FIGURAS\FIGURAS.csproj">
+      <Project>{54EBE4AE-4DA7-488C-B5EB-400BAA7AB0BB}</Project>
+      <Name>FIGURAS</Name>
+    </ProjectReference>
     <ProjectReference Include="..\..\Proyecto26\Proyecto26\Proyecto26\Proyecto26.csproj">
       <Project>{9AE4281F-8120-4F39-AFAC-BBB696E1D09B}</Project>
       <Name>Proyecto26</Name>
