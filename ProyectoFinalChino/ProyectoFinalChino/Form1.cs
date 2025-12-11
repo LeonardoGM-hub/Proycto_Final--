@@ -61,4 +61,23 @@ namespace ProyectoFinalChino
 		{
 		Application.Exit();}
 	}
+		
+		void FibonacciToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			FIGURAS.MainForm fmrFIGURAS=new FIGURAS.MainForm();
+			fmrFIGURAS.MdiParent=this;
+			fmrFIGURAS.Show();
+		}
+		
+		void AreaToolStripMenuItemClick(object sender, EventArgs e)
+		{
+		
+		}
+		
+		void FactorialToolStripMenuItem1Click(object sender, EventArgs e)
+		{
+			Factorial.MainForm fmrFactorial=new Factorial.MainForm();
+			fmrFactorial.MdiParent=this;
+			fmrFactorial.Show();			
+		}
 	}}

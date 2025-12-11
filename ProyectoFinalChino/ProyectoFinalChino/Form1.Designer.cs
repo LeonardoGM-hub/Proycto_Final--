@@ -40,6 +40,7 @@ namespace ProyectoFinalChino
 			this.menuStrip1 = new System.Windows.Forms.MenuStrip();
 			this.factorialToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.fibonacciToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+			this.factorialToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
 			this.areaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.perimetroToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
 			this.volumenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -76,22 +77,32 @@ namespace ProyectoFinalChino
 			// factorialToolStripMenuItem
 			// 
 			this.factorialToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-									this.fibonacciToolStripMenuItem});
+									this.fibonacciToolStripMenuItem,
+									this.factorialToolStripMenuItem1});
 			this.factorialToolStripMenuItem.Name = "factorialToolStripMenuItem";
-			this.factorialToolStripMenuItem.Size = new System.Drawing.Size(89, 29);
-			this.factorialToolStripMenuItem.Text = "Factorial";
+			this.factorialToolStripMenuItem.Size = new System.Drawing.Size(122, 29);
+			this.factorialToolStripMenuItem.Text = "Aplicaciones";
 			// 
 			// fibonacciToolStripMenuItem
 			// 
 			this.fibonacciToolStripMenuItem.Name = "fibonacciToolStripMenuItem";
 			this.fibonacciToolStripMenuItem.Size = new System.Drawing.Size(158, 30);
 			this.fibonacciToolStripMenuItem.Text = "Fibonacci";
+			this.fibonacciToolStripMenuItem.Click += new System.EventHandler(this.FibonacciToolStripMenuItemClick);
+			// 
+			// factorialToolStripMenuItem1
+			// 
+			this.factorialToolStripMenuItem1.Name = "factorialToolStripMenuItem1";
+			this.factorialToolStripMenuItem1.Size = new System.Drawing.Size(158, 30);
+			this.factorialToolStripMenuItem1.Text = "Factorial";
+			this.factorialToolStripMenuItem1.Click += new System.EventHandler(this.FactorialToolStripMenuItem1Click);
 			// 
 			// areaToolStripMenuItem
 			// 
 			this.areaToolStripMenuItem.Name = "areaToolStripMenuItem";
 			this.areaToolStripMenuItem.Size = new System.Drawing.Size(60, 29);
 			this.areaToolStripMenuItem.Text = "Area";
+			this.areaToolStripMenuItem.Click += new System.EventHandler(this.AreaToolStripMenuItemClick);
 			// 
 			// perimetroToolStripMenuItem
 			// 
@@ -165,6 +176,7 @@ namespace ProyectoFinalChino
 			this.ResumeLayout(false);
 			this.PerformLayout();
 		}
+		private System.Windows.Forms.ToolStripMenuItem factorialToolStripMenuItem1;
 		private System.Windows.Forms.ToolStripMenuItem fibonacciToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem salirToolStripMenuItem;
 		private System.Windows.Forms.ToolStripMenuItem acercaDeToolStripMenuItem;

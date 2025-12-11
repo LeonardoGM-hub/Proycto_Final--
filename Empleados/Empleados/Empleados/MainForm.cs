@@ -131,5 +131,10 @@ namespace Empleados
 				pbEmpleado.Visible=true;
 			}
 		}
+		
+		void Label1Click(object sender, EventArgs e)
+		{
+			
+		}
 	}
 }

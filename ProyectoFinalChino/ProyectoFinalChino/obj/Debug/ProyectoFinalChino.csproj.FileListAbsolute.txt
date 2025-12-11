@@ -18,3 +18,7 @@ C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Proy
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Empleados.exe
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Empleados.pdb
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\obj\Debug\ProyectoFinalChino.Form2.resources
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Factorial.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Factorial.pdb
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\FIGURAS.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\FIGURAS.pdb
