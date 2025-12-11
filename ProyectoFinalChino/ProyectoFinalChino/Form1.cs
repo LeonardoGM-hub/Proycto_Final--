@@ -40,5 +40,25 @@ namespace ProyectoFinalChino
 		{
 			
 		}
+		
+		void EmpleadosToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			Empleados.MainForm fmrEmpleados=new Empleados.MainForm();
+			fmrEmpleados.MdiParent=this;
+			fmrEmpleados.Show();
+		}
+		
+		void AcercaDeToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			Form2 f=new Form2();
+				f.Show();
+				Hide();
+		}
+		
+		void SalirToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			if (MessageBox.Show("¿Desea salir?","Confirmación",MessageBoxButtons.YesNo,MessageBoxIcon.Question) == DialogResult.Yes)
+		{
+		Application.Exit();}
 	}
-}
+	}}
