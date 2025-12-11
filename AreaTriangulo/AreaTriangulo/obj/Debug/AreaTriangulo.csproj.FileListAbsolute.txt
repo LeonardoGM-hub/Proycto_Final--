@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.exe
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\bin\Debug\AreaTriangulo.pdb
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.MainForm.resources
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.exe
+C:\Users\josue\trabajoDemas\AreaTriangulo\AreaTriangulo\obj\Debug\AreaTriangulo.pdb
