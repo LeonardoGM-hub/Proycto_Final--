@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\bin\Debug\PerimetroCircunferencia.exe
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\bin\Debug\PerimetroCircunferencia.pdb
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\obj\Debug\PerimetroCircunferencia.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\obj\Debug\PerimetroCircunferencia.MainForm.resources
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\obj\Debug\PerimetroCircunferencia.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\obj\Debug\PerimetroCircunferencia.exe
+C:\Users\josue\trabajoDemas\PerimetroCircunferencia\PerimetroCircunferencia\obj\Debug\PerimetroCircunferencia.pdb
