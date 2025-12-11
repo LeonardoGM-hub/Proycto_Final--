@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\bin\Debug\PerimetroTrapécio.exe
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\bin\Debug\PerimetroTrapécio.pdb
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\obj\Debug\PerimetroTrapécio.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\obj\Debug\PerimetroTrapécio.MainForm.resources
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\obj\Debug\PerimetroTrapécio.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\obj\Debug\PerimetroTrapécio.exe
+C:\Users\josue\trabajoDemas\PerimetroTrapécio\PerimetroTrapécio\obj\Debug\PerimetroTrapécio.pdb
