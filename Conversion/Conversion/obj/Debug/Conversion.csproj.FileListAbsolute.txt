@@ -1,0 +1,28 @@
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\obj\Debug\Conversion.MainForm.resources
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.Cache
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\CC1_PC32\Documents\Conversion\Conversion\obj\Debug\Conversion.pdb
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\obj\Debug\Conversion.MainForm.resources
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.Cache
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\CC2_PC31\Downloads\Conversion\Conversion\obj\Debug\Conversion.pdb
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\obj\Debug\Conversion.MainForm.resources
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.Cache
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\HOLA\Desktop\LEO TRABAJOS\Conversion\Conversion\obj\Debug\Conversion.pdb
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\obj\Debug\Conversion.csprojResolveAssemblyReference.cache
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\obj\Debug\Conversion.MainForm.resources
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\obj\Debug\Conversion.csproj.GenerateResource.Cache
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\obj\Debug\Conversion.exe
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\bin\Debug\Conversion.exe
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\bin\Debug\Conversion.pdb
+C:\Users\CC1_PC32\Downloads\Conversion\Conversion\obj\Debug\Conversion.pdb
