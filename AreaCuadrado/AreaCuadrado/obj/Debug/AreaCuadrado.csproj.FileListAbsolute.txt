@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\bin\Debug\AreaCuadrado.exe
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\bin\Debug\AreaCuadrado.pdb
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\obj\Debug\AreaCuadrado.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\obj\Debug\AreaCubo.MainForm.resources
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\obj\Debug\AreaCuadrado.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\obj\Debug\AreaCuadrado.exe
+C:\Users\josue\trabajoDemas\AreaCubo\AreaCubo\obj\Debug\AreaCuadrado.pdb
