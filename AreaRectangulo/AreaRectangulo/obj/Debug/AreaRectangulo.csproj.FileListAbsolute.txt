@@ -1,0 +1,7 @@
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\bin\Debug\AreaRectangulo.exe
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\bin\Debug\AreaRectangulo.pdb
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.csprojResolveAssemblyReference.cache
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.MainForm.resources
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.csproj.GenerateResource.Cache
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.exe
+C:\Users\josue\trabajoDemas\AreaRectangulo\AreaRectangulo\obj\Debug\AreaRectangulo.pdb
