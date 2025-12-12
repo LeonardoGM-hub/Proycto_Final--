@@ -22,3 +22,5 @@ C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Fact
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Factorial.pdb
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\FIGURAS.exe
 C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\FIGURAS.pdb
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Conversion.exe
+C:\Users\Dell\proyectoFinal\ProyectoFinalChino\ProyectoFinalChino\bin\Debug\Conversion.pdb

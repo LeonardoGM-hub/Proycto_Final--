@@ -121,12 +121,14 @@ namespace ProyectoFinalChino
 			this.conversionesToolStripMenuItem.Name = "conversionesToolStripMenuItem";
 			this.conversionesToolStripMenuItem.Size = new System.Drawing.Size(130, 29);
 			this.conversionesToolStripMenuItem.Text = "Conversiones";
+			this.conversionesToolStripMenuItem.Click += new System.EventHandler(this.ConversionesToolStripMenuItemClick);
 			// 
 			// boletaCalificacionToolStripMenuItem
 			// 
 			this.boletaCalificacionToolStripMenuItem.Name = "boletaCalificacionToolStripMenuItem";
 			this.boletaCalificacionToolStripMenuItem.Size = new System.Drawing.Size(168, 29);
 			this.boletaCalificacionToolStripMenuItem.Text = "Boleta/Calificacion";
+			this.boletaCalificacionToolStripMenuItem.Click += new System.EventHandler(this.BoletaCalificacionToolStripMenuItemClick);
 			// 
 			// pasteleriaToolStripMenuItem
 			// 
