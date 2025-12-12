@@ -1,0 +1,14 @@
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\bin\Debug\Programa 22.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\bin\Debug\Programa 22.pdb
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\obj\Debug\Programa 22.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\obj\Debug\Programa_22.MainForm.resources
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\obj\Debug\Programa 22.csproj.GenerateResource.Cache
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\obj\Debug\Programa 22.exe
+C:\Users\Dell\Documents\SharpDevelop Projects\Programa 22\Programa 22\obj\Debug\Programa 22.pdb
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\bin\Debug\Programa 22.exe
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\bin\Debug\Programa 22.pdb
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\obj\Debug\Programa 22.csprojResolveAssemblyReference.cache
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\obj\Debug\Programa_22.MainForm.resources
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\obj\Debug\Programa 22.csproj.GenerateResource.Cache
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\obj\Debug\Programa 22.exe
+C:\Users\Dell\proyectoFinal\Programa 22\Programa 22\obj\Debug\Programa 22.pdb

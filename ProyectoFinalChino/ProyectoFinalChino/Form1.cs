@@ -80,4 +80,16 @@ namespace ProyectoFinalChino
 			fmrFactorial.MdiParent=this;
 			fmrFactorial.Show();			
 		}
+		
+		void ConversionesToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			Conversion.MainForm fmrConversion = new Conversion.MainForm();
+			fmrConversion.MdiParent=this;
+			fmrConversion.Show();
+		}
+		
+		void BoletaCalificacionToolStripMenuItemClick(object sender, EventArgs e)
+		{
+			
+		}
 	}}
